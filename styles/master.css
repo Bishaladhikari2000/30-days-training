@@ -45,6 +45,31 @@ nav {
     border-radius: 14px;
 }
 
-.btn-primary {
-    border: none;
+.video_section {
+    padding: 4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.highlighted_text {
+    color: green;
+}
+
+.video_frame {
+    margin: 30px;
+}
+
+.image_info {
+    display: flex;
+    justify-content: center;
+}
+
+.leftimage img {
+    width: 250px;
+    height: 200px;
+}
+
+.righttext {
+    width: 30%;
 }
